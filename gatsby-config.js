@@ -1,8 +1,9 @@
 module.exports = {
+  pathPrefix: "/oal-website-de",
   siteMetadata: {
     title: `Oak&Lotus Consulting`,
+    url: "https://chickenvinh.github.io/oal-website-de/",
     description: `Wir rekrutieren Azubis, besetzen Ihre offenen Stellen und helfen bei der Intergration.`,
-    url: `https://oalconsult.de`,
     author: `Oak&Lotus Consulting`,
     year: 2020,
     keywords: [
